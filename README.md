@@ -6,3 +6,4 @@ O banco de dados será usado para armazenar informações sobre a ocupação da 
 Para visualizar as informações coletadas, será criada uma dashboard usando PHP. Nela, será possível ver em tempo real quais vagas estão ocupadas e quais estão livres, além de informações sobre o histórico de ocupação do estacionamento. A dashboard também permitirá a configuração de alarmes para alertar quando uma vaga específica for ocupada ou liberada.
 
 Com este projeto, será possível monitorar de forma eficiente a ocupação do estacionamento, otimizando o uso do espaço disponível e melhorando a experiência dos usuários.
+<img src="logo.jpg">
