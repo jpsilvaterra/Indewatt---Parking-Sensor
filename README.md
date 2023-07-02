@@ -1,6 +1,6 @@
 # Indewatt-Parking-Sensor
 <img src="logo.png">
-Este projeto consiste em criar um sistema para verificar se uma vaga de estacionamento está ocupada ou não. Para isso, utilizaremos um sensor ultrassônico conectado a um Arduino, que será responsável por medir a distância entre o sensor e o veículo estacionado. Esses dados serão transmitidos para o computador usando a porta serial do Arduino, e um programa em Python será usado para ler esses dados e enviá-los para um banco de dados SQL.
+Este projeto consiste em um sistema criado para verificar se uma vaga de estacionamento está ocupada ou não. Para isso, utilizaremos um sensor ultrassônico conectado a um Arduino, que será responsável por medir a distância entre o sensor e o veículo estacionado. Esses dados serão transmitidos para o computador usando a porta serial do Arduino, e um programa em Python será usado para ler esses dados e enviá-los para um banco de dados SQL.
 
 O banco de dados será usado para armazenar informações sobre a ocupação da vaga, como o horário em que ela foi ocupada e o horário em que foi liberada. Com esses dados, será possível gerar relatórios e análises sobre a utilização do estacionamento.
 
